@@ -7,7 +7,7 @@
 //
 
 #import "PYSeries.h"
-
+#import "PYUtilities.h"
 typedef NSString *PYCartesianSeriesDataFilter;
 
 FOUNDATION_EXPORT PYCartesianSeriesDataFilter const PYCartesianSeriesDataFilterNearest;

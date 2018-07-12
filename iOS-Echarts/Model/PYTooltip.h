@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-
+#import "PYUtilities.h"
 @class PYColor, PYTextStyle, PYAxisPointer;
 
 typedef NSString *PYTooltipTrigger;

@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-
+#import "PYUtilities.h"
 @class PYAxisLine, PYAxisLabel, PYAxisSplitLine, PYAxisTick, PYTextStyle, PYSplitArea;
 
 typedef NSString *PYAxisType;

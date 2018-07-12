@@ -7,7 +7,7 @@
 //
 
 #import "PYSeries.h"
-
+#import "PYUtilities.h"
 @class PYColor, PYTextStyle, PYAxisLine, PYAxisLabel, PYAxisTick, PYLineStyle;
 
 @interface PYGaugeSplitLine : NSObject

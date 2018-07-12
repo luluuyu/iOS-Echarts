@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-
+#import "PYUtilities.h"
 @class PYLineStyle, PYAreaStyle;
 
 typedef NSString * PYAxisPointerType;

@@ -7,7 +7,7 @@
 //
 
 #import "PYSeries.h"
-
+#import "PYUtilities.h"
 typedef NSString *PYPieSeriesRoseType;
 
 FOUNDATION_EXPORT PYPieSeriesRoseType const PYPieSeriesRoseTypeRadius;

@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-
+#import "PYUtilities.h"
 @class PYNodeStyle, PYLinkStyle, PYLinks, PYTextStyle, PYLineStyle, PYAreaStyle, PYChordStyle, PYLabelLine;
 
 @interface PYLabelLine : NSObject
